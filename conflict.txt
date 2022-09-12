@@ -1,3 +1,2 @@
-import System;
-print("Hello World");
-end
+end.
+end.
